@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANSH GOSWAMI</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" src=<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/89b08535-eb64-4ffd-b2ea-6d42def7cfb0" />
+<img align="right" alt="coding" src="https://github.com/user-attachments/assets/89b08535-eb64-4ffd-b2ea-6d42def7cfb0" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-38&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-38" /> </p>
 
